@@ -1,0 +1,12 @@
+{
+    "name": "Cider Force Mojave",
+    "description": "Cider Force Mojave",
+    "version": "1.0.0",
+    "author": "DecibillyJoel",
+    "github_repo": "DecibillyJoel/Cider-Force-Mojave",
+    "directives": {
+        "windowLayout": {
+            "value": "twopanel"
+        }
+    }
+}
