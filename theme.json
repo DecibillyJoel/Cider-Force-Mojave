@@ -8,12 +8,5 @@
         "windowLayout": {
             "value": "twopanel"
         }
-    },
-    "pack": [
-        {
-            "name": "Force Mojave: iTheme Compatibility",
-            "description": "Use to force iTheme to be Mojave",
-            "file": "iTheme_Compatibility.less"
-        }
-    ]
+    }
 }
